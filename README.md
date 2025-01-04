@@ -11,7 +11,7 @@ Domin:Full Stack deveploer
 
 Mentor name :Neha
 
-Duration :dec 20th,2024 to jan 20th ,2024
+Duration :dec 20th,2024 to jan 20th ,2025
 
 Overview: 
 Building a Real-Time Collaborative Document Editor
