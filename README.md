@@ -1,3 +1,4 @@
+
 # Collaborative-Document-Editor
 
 NAME :Annu Keerthi
@@ -23,4 +24,6 @@ Building a Real-Time Collaborative Document Editor
    * Data Storage: Use MongoDB or PostgreSQL to store document data, user information, and collaboration history.
    * Synchronization Logic: Implement robust algorithms to handle concurrent edits, resolve conflicts, and maintain data consistency across all users.
    * API: Create a RESTful API to handle user authentication, document creation, and other relevant operations.
-   * 
+  
+   * [Image 2025-01-04 at 14 50 16_f6bf1ee7](https://github.com/user-attachments/assets/b4614ddf-8867-4221-8827-4652f5e95f4b)
+
